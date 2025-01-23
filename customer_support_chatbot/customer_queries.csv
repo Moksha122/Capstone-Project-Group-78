@@ -1,0 +1,15 @@
+query,intent
+How do I reset my password?,password_reset
+I need help with my account.,account_help
+What is your refund policy?,refund_policy
+My order is delayed.,order_status
+How do I change my delivery address?,update_address
+What is your refund policy?:Our refund policy allows you to return products within 30 days for a full refund.
+How can I track my order?: You can track your order by logging into your account and visiting the 'Orders' section.
+What are your working hours?:We are available from 9 AM to 6 PM, Monday to Friday.
+How can I contact customer support?:You can contact customer support by emailing support@company.com or calling 1-800-123-4567.",
+Where are you located?:Our office is located at 123 Main Street, Cityville, Country
+Can I change my shipping address?:Yes, you can update your shipping address before your order is shipped. Please contact support immediately.",
+How do I return a product?:You can return a product by visiting our Returns page or contacting customer support.
+What payment methods do you accept?:We accept credit cards, debit cards, PayPal, and bank transfers
+Do you offer gift cards?:Yes, we offer gift cards for various amounts. You can purchase them on our website
